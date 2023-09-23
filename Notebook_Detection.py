@@ -1,3 +1,4 @@
+# Import des librairies
 import matplotlib.pyplot as plt
 import seaborn as sns
 import statsmodels.api as sm
